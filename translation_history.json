@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2025-05-23T12:43:48.794564",
+    "source_text": "kaise hain aap",
+    "translated_text": "Kaise Hain Aap",
+    "source_language": "id",
+    "target_language": "en"
+  },
+  {
+    "timestamp": "2025-05-23T12:53:31.140758",
+    "source_text": "kaise hain aap",
+    "translated_text": "Kaise Hain Aap",
+    "source_language": "id",
+    "target_language": "en"
+  },
+  {
+    "timestamp": "2025-05-23T12:54:01.789624",
+    "source_text": "how r u",
+    "translated_text": "¿cómo estás?",
+    "source_language": "en",
+    "target_language": "es"
+  },
+  {
+    "timestamp": "2025-05-23T14:15:59.836972",
+    "source_text": "Hello",
+    "translated_text": "Bonjour",
+    "source_language": "en",
+    "target_language": "fr"
+  },
+  {
+    "timestamp": "2025-05-23T14:23:17.340013",
+    "source_text": "Hello",
+    "translated_text": "Bonjour",
+    "source_language": "en",
+    "target_language": "fr"
+  },
+  {
+    "timestamp": "2025-05-23T14:26:03.071744",
+    "source_text": "Hello",
+    "translated_text": "Bonjour",
+    "source_language": "en",
+    "target_language": "fr"
+  },
+  {
+    "timestamp": "2025-05-23T14:26:19.080185",
+    "source_text": "Hello",
+    "translated_text": "Bonjour",
+    "source_language": "en",
+    "target_language": "fr"
+  },
+  {
+    "timestamp": "2025-05-23T14:26:49.251750",
+    "source_text": "hello how r u",
+    "translated_text": "Hallo, wie geht es dir",
+    "source_language": "en",
+    "target_language": "de"
+  }
+]
